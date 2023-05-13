@@ -1,0 +1,29 @@
+#### Arquivo de Bisus de Jquery ####
+
+jQuery é uma lib muito popular de JavaScript, criada para facilitar a vida dos desenvolvedores.
+Com ela é possível criar animações, manipular eventos, desenvolver plugins e etc.
+Tudo isso de forma muito simples e prática.
+
+O jQuery é uma biblioteca JavaScript que permite o desenvolvimento de aplicações web interativas,
+com efeitos e animações, de forma simples e rápida. Ele é um framework JavaScript, ou seja, um conjunto de
+códigos prontos que facilitam o desenvolvimento de aplicações web.
+
+## SELETORES E FILTROS ##
+
+
+## MANIPULADORES ##
+
+
+## ATRAVESSADORES ##
+
+
+## EVENTOS ##
+
+
+## EFEITOS ##
+
+
+## PLUGINS E FUNÇÕES ##
+
+
+## AJAX & JSON ##
